@@ -1,6 +1,6 @@
 # Hi there, I'm Prem Suresh 👋 
 
-## I'm currently a Software Engineer and an NLP Entusiast!
+## I'm a Software Engineer and an NLP Entusiast!
 
 - 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact about me: I love to play Videogames, Badminton and Footbal 
