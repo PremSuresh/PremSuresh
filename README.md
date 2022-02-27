@@ -1,6 +1,6 @@
 # Hi there, I'm Prem Suresh 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=premsuresh.github.io&style=for-the-badge&url=https%3A%2F%premsuresh.github.io)](premsuresh.github.io)
 
 ## I'm currently a Software Engineer and an NLP Entusiast!
 
