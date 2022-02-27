@@ -13,8 +13,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/prem-suresh-8a451480#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/prem-suresh-8a451480#gh-dark-mode-only)
 
-<br />
-
 ---
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PremSuresh&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" alt="PremSuresh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremSuresh&layout=compact&hide_border=true&theme=dracula" /></a> |
