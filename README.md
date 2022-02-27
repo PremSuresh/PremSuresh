@@ -1,4 +1,4 @@
-# Hi there, I'm Prem Suresh 👋 
+# Hey there, I'm Prem Suresh 🤝🏻
 
 ## I'm a Software Engineer and an NLP Entusiast!
 
