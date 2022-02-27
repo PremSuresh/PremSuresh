@@ -2,7 +2,7 @@
 
 ## I'm currently a Software Engineer and an NLP Entusiast!
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - ⚡ Fun fact about me: I love to play Videogames, Badminton and Footbal 
 
 ### Connect with me:
